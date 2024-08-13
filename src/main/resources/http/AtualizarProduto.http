@@ -1,0 +1,9 @@
+PUT http://localhost:8080/api/produtos/atualizar/18
+Content-Type: application/json
+
+{
+  "nome": "Brownie Congeladao",
+  "descricao": "Brownie SWIFT",
+  "preco": -1.00,
+  "quantidadeEstoque": 80
+}

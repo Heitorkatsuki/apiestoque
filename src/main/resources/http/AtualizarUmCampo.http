@@ -1,0 +1,6 @@
+PATCH http://localhost:8080/api/produtos/atualizarParcial/17
+Content-Type: application/json
+
+{
+  "preco": 4.90
+}
